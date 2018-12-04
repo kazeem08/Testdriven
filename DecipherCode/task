@@ -1,0 +1,6 @@
+Given a non-empty string like "PbQr" return a string like "CODE".
+
+
+decipher('PbQr') → "CODE"
+decipher("terljuvgr") → "GREYWHITE"
+decipher("&nysn@") → "&Alfa@"
