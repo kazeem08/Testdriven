@@ -1,0 +1,13 @@
+decipher (“rotate by 13 places”) is a special case of the Ceaser cipher in which the shift is always 13.
+So every letter is shifted 13 places to encrypt or to decrypt the message.
+
+Given a non-empty string like "PbQr" return a string like "CODE".
+
+Q H P X
+| | | |
+D U C K
+
+
+decipher('PbQr') → "CODE"
+decipher("terljuvgr") → "GREYWHITE"
+decipher("&nysn@") → "&Alfa@"
