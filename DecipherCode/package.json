@@ -1,0 +1,15 @@
+{
+  "name": "DecipherCode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "decipher.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^23.6.0"
+  }
+}

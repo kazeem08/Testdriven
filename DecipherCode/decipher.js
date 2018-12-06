@@ -1,3 +1,7 @@
-function decipher(str) {
-    //Provide your solution here!!
+function decipher(str) { 
+    
+   
 }
+
+
+  module.exports = decipher;
